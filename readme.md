@@ -52,8 +52,10 @@
 
 <div data-importer="image" align="left">
   <img data-importer="image" height="75" src="https://images.credly.com/size/340x340/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob"  />
-  <img data-importer="image" height="75" src="https://www.credly.com/badges/3cb78b18-6eb9-472b-8db0-d61dae55f4ad/public_url"  />
-  <img data-importer="image" height="75" src="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cef99e2c-0347-46da-9742-0a9dab1c6f3f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>"  />
+   <img data-importer="image" height="75" src="https://images.credly.com/size/340x340/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob"  />
+   <img data-importer="image" height="75" src="https://images.credly.com/size/340x340/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob"  />
+   <img data-importer="image" height="75" src="https://images.credly.com/size/340x340/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob"  />
+   <img data-importer="image" height="75" src="https://images.credly.com/size/340x340/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob"  />
 </div>
 
 ###
