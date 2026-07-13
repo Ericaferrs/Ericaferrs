@@ -26,6 +26,11 @@
 <h4 data-importer="text" align="left">I'm Érica from Brazil<br><br>- 🔭 I’m working as Cloud Support Specialist<br>- 📚 I'm currently learning K8S, Terraform and AWS<br>- ⚡ In my free time, I watch series and movies, and I like playing games.</h4>
 
 ###
+
+<p data-importer="text" align="left"></p>
+
+###
+
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
 ###
@@ -48,6 +53,10 @@
 
 ###
 
+<p data-importer="text" align="left"></p>
+
+###
+
 <h3 data-importer="text" align="left">🛠 Certifications</h3>
 
 ###
@@ -66,6 +75,14 @@
 ###
 
 <div data-importer="techs" align="left">
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/erica_ferreira">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=erica_ferreira&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
