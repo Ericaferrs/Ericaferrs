@@ -53,7 +53,7 @@
 <div data-importer="image" align="left">
   <img data-importer="image" height="75" src="https://images.credly.com/size/340x340/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob"  />
    <img data-importer="image" height="75" src="https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob"  />
-   <img data-importer="image" height="75" src="https://images.credly.com/size/340x340/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob"  />
+   <img data-importer="image" height="75" src="https://images.credly.com/size/110x110/images/488915ba-1bad-4be3-9c07-f7ec44ad0090/MTA_Networking_Fundamentals-01.png"  />
    <img data-importer="image" height="75" src="https://images.credly.com/size/340x340/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob"  />
    <img data-importer="image" height="75" src="https://images.credly.com/size/340x340/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob"  />
 </div>
