@@ -78,9 +78,3 @@
 </div>
 
 ###
-
-<div data-importer="music" align="left">
-  <img src="?theme=dark&spin=false&rainbow=true" alt="Widget with the current Spotify song"  />
-</div>
-
-###
