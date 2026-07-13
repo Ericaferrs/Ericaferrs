@@ -6,10 +6,10 @@
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/ericaferreira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/Erica_fs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="25" alt="telegram logo"  />
   </a>
 </div>
 
@@ -23,10 +23,9 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Érica from Brazil<br><br>- 🔭 I’m working as Cloud Support Specialist<br>- 📚 I'm currently learning K8S, Terraform and AWS<br>- ⚡ In my free time, I watch series and movies, and I like playing games.</p>
+<h4 data-importer="text" align="left">I'm Érica from Brazil<br><br>- 🔭 I’m working as Cloud Support Specialist<br>- 📚 I'm currently learning K8S, Terraform and AWS<br>- ⚡ In my free time, I watch series and movies, and I like playing games.</h4>
 
 ###
-
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
 ###
