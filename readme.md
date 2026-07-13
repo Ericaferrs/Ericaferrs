@@ -56,7 +56,8 @@
    <img data-importer="image" height="85" src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob"  />
    <img data-importer="image" height="85" src="https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png"  />
   <img data-importer="image" height="85" src="https://images.credly.com/size/110x110/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob"  />
-   <img data-importer="image" height="85" src="https://images.credly.com/size/110x110/images/488915ba-1bad-4be3-9c07-f7ec44ad0090/MTA_Networking_Fundamentals-01.png"  />
+  <img data-importer="image" height="85" src="https://images.credly.com/size/110x110/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob"  />
+  <img data-importer="image" height="85" src="https://images.credly.com/size/110x110/images/488915ba-1bad-4be3-9c07-f7ec44ad0090/MTA_Networking_Fundamentals-01.png"  />
    
 </div>
 
