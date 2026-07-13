@@ -15,10 +15,6 @@
 
 ###
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
-
-###
-
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
 ###
