@@ -79,10 +79,8 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/erica_ferreira">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=erica_ferreira&count=5" alt="Spotify recently played"  />
-  </a>
+<div data-importer="music" align="left">
+  <img src="?theme=dark&spin=false&rainbow=true" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
