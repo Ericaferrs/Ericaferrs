@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/ericaferreira" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://t.me/Erica_fs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
@@ -65,9 +68,5 @@
 
 <div data-importer="techs" align="left">
 </div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 ###
