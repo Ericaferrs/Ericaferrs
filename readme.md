@@ -19,7 +19,15 @@
 
 ###
 
-<h4 data-importer="text" align="left">I'm Érica from Brazil<br><br>- 🔭 I’m working as Cloud Support Specialist<br>- 📚 I'm currently learning K8S, Terraform and AWS<br>- ⚡ In my free time, I watch TV shows and movies, and I like to play video games </h4>
+<h4 data-importer="text" align="left">
+  I'm Érica, a Cloud Support Specialist from Brazil
+  <br><br>
+  - 🔭 I’m currently working as Cloud Support Specialist
+  <br>
+  - 📚 I'm expanding my skills in K8S, Terraform and AWS
+  <br>
+  - ⚡ In my free time, I enjoy watching TV shows, movies, and playing video games
+</h4>
 
 ###
 
